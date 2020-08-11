@@ -1,3 +1,10 @@
+"""if you use this code, please cite:
+    Tokovarov M.
+    Convolutional neural networks with reusable full-dimension-long layers for feature selection and classification of motor imagery in EEG signals
+    ICANN2020
+    2020
+"""
+
 from FullDimLReuseCNN import FullDimLReuseCNN
 import numpy as np
 import utilityFunctions as uf
